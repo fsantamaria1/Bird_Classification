@@ -43,7 +43,7 @@ git clone https://github.com/your-username/Bird_Classification.git
 
 ## Dataset
 
-The model uses a bird species dataset obtained from Kaggle. The dataset contains images of 100 different bird species. The images are divided into training, testing, and validation sets.
+The model uses a bird species dataset obtained from Kaggle. The dataset contains images of 525 different bird species. The images are divided into training, testing, and validation sets.
 
 The dataset can be downloaded using the Kaggle API by following the instructions provided in the notebook. The downloaded dataset is stored in a zip file (`100-bird-species.zip`), which is then extracted to the appropriate directories for training, testing, and validation.
 
