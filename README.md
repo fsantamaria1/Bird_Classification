@@ -83,11 +83,9 @@ Two versions of the trained models are saved:
 
 1. Base Model: The initial model before fine-tuning, saved as `base_bird_model.h5`.
 
-2. Tun
+2. Tuned Model: The model after fine-tuning, saved as `tuned_bird_model.h5`.
 
-ed Model: The model after fine-tuning, saved as `tuned_bird_model.h5`.
-
-These saved models can be used for inference or further analysis without the need to retrain the models.
+These saved models can be used later without the need to retrain the models.
 
 ## Additional Resources
 
