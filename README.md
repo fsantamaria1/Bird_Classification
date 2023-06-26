@@ -25,7 +25,7 @@ To run the Jupyter Notebook and use the machine learning model, follow these ste
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/Bird_Classification.git
+git clone https://github.com/fsantamaria1/Bird_Classification.git
 ```
 
 2. Install the required dependencies:
