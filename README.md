@@ -90,5 +90,6 @@ These saved models can be used later without the need to retrain the models.
 ## Additional Resources
 
 - [Kaggle: 100 Bird Species Dataset](https://www.kaggle.com/gpiosenka/100-bird-species)
+- [Bird Classifier](https://github.com/fsantamaria1/Bird_Classifier.git)
 
 For more details on the implementation and analysis, please refer to the Jupyter Notebook in this repository.
